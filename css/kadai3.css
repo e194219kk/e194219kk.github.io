@@ -1,0 +1,17 @@
+h1{
+    color: aquamarine;
+    background-color: darkblue;
+    text-align: center;
+}
+h2{
+    color:coral;
+    background-color:darkseagreen;
+    text-align: center;
+}
+h3{
+    color: cornflowerblue;
+}
+body{
+    background-image: url("../images/05.jpg");
+    background-attachment: fixed;
+}
