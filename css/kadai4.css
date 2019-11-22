@@ -1,0 +1,26 @@
+h1#syumi{
+    color:chartreuse;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h1#link{
+    color: antiquewhite;
+    background-color: coral;
+    text-align: center;
+}
+h2.redcolor{
+    color: dodgerblue;
+    background-color: bisque;
+    text-align: center;
+}
+
+h2#green{
+    color: cyan;
+    background-color: darkseagreen;
+    text-align: center;
+}
+body{
+    background-image: url("../images/05.jpg");
+    background-attachment: fixed;
+}
